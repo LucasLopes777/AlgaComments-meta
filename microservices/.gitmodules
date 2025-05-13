@@ -1,0 +1,3 @@
+[submodule "AlgaComments/ModerationService"]
+	path = AlgaComments/ModerationService
+	url = git@github.com:LucasLopes777/ModerationService.git
